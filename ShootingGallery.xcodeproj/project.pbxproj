@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0A376C4819BBA6F200004232 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A376C4719BBA6F200004232 /* AppDelegate.swift */; };
-		0A376C4A19BBA6F200004232 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A376C4919BBA6F200004232 /* ViewController.swift */; };
-		0A376C4D19BBA6F200004232 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A376C4B19BBA6F200004232 /* Main.storyboard */; };
-		0A376C4F19BBA6F200004232 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A376C4E19BBA6F200004232 /* Images.xcassets */; };
 		0A376C5B19BBA6F200004232 /* ShootingGalleryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A376C5A19BBA6F200004232 /* ShootingGalleryTests.swift */; };
-		0A376C6519BD35C400004232 /* squish.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0A376C6419BD35C400004232 /* squish.wav */; };
-		0A376C6719BD385200004232 /* blip.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0A376C6619BD385200004232 /* blip.wav */; };
-		0A376C6A19BD726300004232 /* falling.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0A376C6919BD726300004232 /* falling.wav */; };
-		0A376C6C19BE126300004232 /* Ball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A376C6B19BE126300004232 /* Ball.swift */; };
-		0A376C6E19BE14FE00004232 /* Direction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A376C6D19BE14FE00004232 /* Direction.swift */; };
-		0AF5279919BFC6C200E36051 /* Paddle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF5279819BFC6C200E36051 /* Paddle.swift */; };
-		0AF5279D19BFC93500E36051 /* colorfulDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF5279C19BFC93500E36051 /* colorfulDots.jpg */; };
-		0AF527A219BFCA5900E36051 /* blueDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527A119BFCA5900E36051 /* blueDots.jpg */; };
-		0AF527B219BFF3DC00E36051 /* maroonBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527B119BFF3DC00E36051 /* maroonBigDots.jpg */; };
-		0AF527B419BFF40300E36051 /* deepgreenBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527B319BFF40300E36051 /* deepgreenBigDots.jpg */; };
-		0AF527B619BFF42700E36051 /* rustyBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527B519BFF42700E36051 /* rustyBigDots.jpg */; };
-		0AF527B819BFF44C00E36051 /* lightblueBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527B719BFF44C00E36051 /* lightblueBigDots.jpg */; };
-		0AF527BA19BFF46900E36051 /* forestgreenBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527B919BFF46900E36051 /* forestgreenBigDots.jpg */; };
-		0AF527BD19BFF74300E36051 /* lightblueTinyDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527BB19BFF74300E36051 /* lightblueTinyDots.jpg */; };
-		0AF527BE19BFF74300E36051 /* goldBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0AF527BC19BFF74300E36051 /* goldBigDots.jpg */; };
+		0ACA124B1A3B73DC0064BC14 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA124A1A3B73DC0064BC14 /* Main.storyboard */; };
+		0ACA12511A3B76960064BC14 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA12501A3B76960064BC14 /* ViewController.swift */; };
+		0ACA12531A3B76CB0064BC14 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA12521A3B76CB0064BC14 /* AppDelegate.swift */; };
+		0ACA12571A3B76E90064BC14 /* Ball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA12541A3B76E90064BC14 /* Ball.swift */; };
+		0ACA12581A3B76E90064BC14 /* Direction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA12551A3B76E90064BC14 /* Direction.swift */; };
+		0ACA12591A3B76E90064BC14 /* Paddle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA12561A3B76E90064BC14 /* Paddle.swift */; };
+		0ACA12631A3B77150064BC14 /* blueDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA125A1A3B77150064BC14 /* blueDots.jpg */; };
+		0ACA12641A3B77150064BC14 /* colorfulDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA125B1A3B77150064BC14 /* colorfulDots.jpg */; };
+		0ACA12651A3B77150064BC14 /* deepgreenBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA125C1A3B77150064BC14 /* deepgreenBigDots.jpg */; };
+		0ACA12661A3B77150064BC14 /* forestgreenBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA125D1A3B77150064BC14 /* forestgreenBigDots.jpg */; };
+		0ACA12671A3B77150064BC14 /* goldBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA125E1A3B77150064BC14 /* goldBigDots.jpg */; };
+		0ACA12681A3B77150064BC14 /* lightblueBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA125F1A3B77150064BC14 /* lightblueBigDots.jpg */; };
+		0ACA12691A3B77150064BC14 /* lightblueTinyDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA12601A3B77150064BC14 /* lightblueTinyDots.jpg */; };
+		0ACA126A1A3B77150064BC14 /* maroonBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA12611A3B77150064BC14 /* maroonBigDots.jpg */; };
+		0ACA126B1A3B77150064BC14 /* rustyBigDots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA12621A3B77150064BC14 /* rustyBigDots.jpg */; };
+		0ACA126F1A3B772A0064BC14 /* blip.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA126C1A3B772A0064BC14 /* blip.wav */; };
+		0ACA12701A3B772A0064BC14 /* falling.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA126D1A3B772A0064BC14 /* falling.wav */; };
+		0ACA12711A3B772A0064BC14 /* squish.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA126E1A3B772A0064BC14 /* squish.wav */; };
+		0ACA12731A3B77450064BC14 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ACA12721A3B77450064BC14 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,28 +42,28 @@
 /* Begin PBXFileReference section */
 		0A376C4219BBA6F200004232 /* ShootingGallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShootingGallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A376C4619BBA6F200004232 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0A376C4719BBA6F200004232 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0A376C4919BBA6F200004232 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0A376C4C19BBA6F200004232 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0A376C4E19BBA6F200004232 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		0A376C5419BBA6F200004232 /* ShootingGalleryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShootingGalleryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A376C5919BBA6F200004232 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0A376C5A19BBA6F200004232 /* ShootingGalleryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShootingGalleryTests.swift; sourceTree = "<group>"; };
-		0A376C6419BD35C400004232 /* squish.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = squish.wav; path = ../../../../../Downloads/squish.wav; sourceTree = "<group>"; };
-		0A376C6619BD385200004232 /* blip.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = blip.wav; path = ../../../../../Downloads/blip.wav; sourceTree = "<group>"; };
-		0A376C6919BD726300004232 /* falling.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = falling.wav; path = ../../../../../Downloads/falling.wav; sourceTree = "<group>"; };
-		0A376C6B19BE126300004232 /* Ball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ball.swift; sourceTree = "<group>"; };
-		0A376C6D19BE14FE00004232 /* Direction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Direction.swift; sourceTree = "<group>"; };
-		0AF5279819BFC6C200E36051 /* Paddle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Paddle.swift; sourceTree = "<group>"; };
-		0AF5279C19BFC93500E36051 /* colorfulDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = colorfulDots.jpg; sourceTree = "<group>"; };
-		0AF527A119BFCA5900E36051 /* blueDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueDots.jpg; sourceTree = "<group>"; };
-		0AF527B119BFF3DC00E36051 /* maroonBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = maroonBigDots.jpg; path = "polka-dots-and-squares-003610-deep-maroon/maroonBigDots.jpg"; sourceTree = "<group>"; };
-		0AF527B319BFF40300E36051 /* deepgreenBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = deepgreenBigDots.jpg; path = "polka-dots-and-squares-003654-deep-green-2/deepgreenBigDots.jpg"; sourceTree = "<group>"; };
-		0AF527B519BFF42700E36051 /* rustyBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rustyBigDots.jpg; path = "polka-dots-and-squares-003700-glossy-rust/rustyBigDots.jpg"; sourceTree = "<group>"; };
-		0AF527B719BFF44C00E36051 /* lightblueBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lightblueBigDots.jpg; path = "polka-dots-and-squares-003719-light-blue/lightblueBigDots.jpg"; sourceTree = "<group>"; };
-		0AF527B919BFF46900E36051 /* forestgreenBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = forestgreenBigDots.jpg; path = "polka-dots-and-squares-003651-forest-green/forestgreenBigDots.jpg"; sourceTree = "<group>"; };
-		0AF527BB19BFF74300E36051 /* lightblueTinyDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lightblueTinyDots.jpg; sourceTree = "<group>"; };
-		0AF527BC19BFF74300E36051 /* goldBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goldBigDots.jpg; sourceTree = "<group>"; };
+		0ACA124A1A3B73DC0064BC14 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = SOURCE_ROOT; };
+		0ACA12501A3B76960064BC14 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = SOURCE_ROOT; };
+		0ACA12521A3B76CB0064BC14 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = SOURCE_ROOT; };
+		0ACA12541A3B76E90064BC14 /* Ball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ball.swift; sourceTree = SOURCE_ROOT; };
+		0ACA12551A3B76E90064BC14 /* Direction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Direction.swift; sourceTree = SOURCE_ROOT; };
+		0ACA12561A3B76E90064BC14 /* Paddle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Paddle.swift; sourceTree = SOURCE_ROOT; };
+		0ACA125A1A3B77150064BC14 /* blueDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA125B1A3B77150064BC14 /* colorfulDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = colorfulDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA125C1A3B77150064BC14 /* deepgreenBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = deepgreenBigDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA125D1A3B77150064BC14 /* forestgreenBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = forestgreenBigDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA125E1A3B77150064BC14 /* goldBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = goldBigDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA125F1A3B77150064BC14 /* lightblueBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lightblueBigDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA12601A3B77150064BC14 /* lightblueTinyDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lightblueTinyDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA12611A3B77150064BC14 /* maroonBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maroonBigDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA12621A3B77150064BC14 /* rustyBigDots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rustyBigDots.jpg; sourceTree = SOURCE_ROOT; };
+		0ACA126C1A3B772A0064BC14 /* blip.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = blip.wav; sourceTree = SOURCE_ROOT; };
+		0ACA126D1A3B772A0064BC14 /* falling.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = falling.wav; sourceTree = SOURCE_ROOT; };
+		0ACA126E1A3B772A0064BC14 /* squish.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = squish.wav; sourceTree = SOURCE_ROOT; };
+		0ACA12721A3B77450064BC14 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,13 +107,12 @@
 		0A376C4419BBA6F200004232 /* ShootingGallery */ = {
 			isa = PBXGroup;
 			children = (
-				0A376C4719BBA6F200004232 /* AppDelegate.swift */,
-				0A376C6D19BE14FE00004232 /* Direction.swift */,
-				0A376C6B19BE126300004232 /* Ball.swift */,
-				0AF5279819BFC6C200E36051 /* Paddle.swift */,
-				0A376C4919BBA6F200004232 /* ViewController.swift */,
-				0A376C4B19BBA6F200004232 /* Main.storyboard */,
-				0A376C4E19BBA6F200004232 /* Images.xcassets */,
+				0ACA12521A3B76CB0064BC14 /* AppDelegate.swift */,
+				0ACA12501A3B76960064BC14 /* ViewController.swift */,
+				0ACA12541A3B76E90064BC14 /* Ball.swift */,
+				0ACA12551A3B76E90064BC14 /* Direction.swift */,
+				0ACA12561A3B76E90064BC14 /* Paddle.swift */,
+				0ACA124A1A3B73DC0064BC14 /* Main.storyboard */,
 				0A376C4519BBA6F200004232 /* Supporting Files */,
 			);
 			path = ShootingGallery;
@@ -122,6 +121,7 @@
 		0A376C4519BBA6F200004232 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0ACA12721A3B77450064BC14 /* Images.xcassets */,
 				0A376C4619BBA6F200004232 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -147,9 +147,9 @@
 		0A376C6819BD398A00004232 /* SoundFiles */ = {
 			isa = PBXGroup;
 			children = (
-				0A376C6619BD385200004232 /* blip.wav */,
-				0A376C6919BD726300004232 /* falling.wav */,
-				0A376C6419BD35C400004232 /* squish.wav */,
+				0ACA126C1A3B772A0064BC14 /* blip.wav */,
+				0ACA126D1A3B772A0064BC14 /* falling.wav */,
+				0ACA126E1A3B772A0064BC14 /* squish.wav */,
 			);
 			name = SoundFiles;
 			path = ShootingGallery;
@@ -158,15 +158,15 @@
 		0AF527A019BFCA3D00E36051 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				0AF527A119BFCA5900E36051 /* blueDots.jpg */,
-				0AF5279C19BFC93500E36051 /* colorfulDots.jpg */,
-				0AF527B319BFF40300E36051 /* deepgreenBigDots.jpg */,
-				0AF527B919BFF46900E36051 /* forestgreenBigDots.jpg */,
-				0AF527BC19BFF74300E36051 /* goldBigDots.jpg */,
-				0AF527BB19BFF74300E36051 /* lightblueTinyDots.jpg */,
-				0AF527B719BFF44C00E36051 /* lightblueBigDots.jpg */,
-				0AF527B119BFF3DC00E36051 /* maroonBigDots.jpg */,
-				0AF527B519BFF42700E36051 /* rustyBigDots.jpg */,
+				0ACA125A1A3B77150064BC14 /* blueDots.jpg */,
+				0ACA125B1A3B77150064BC14 /* colorfulDots.jpg */,
+				0ACA125C1A3B77150064BC14 /* deepgreenBigDots.jpg */,
+				0ACA125D1A3B77150064BC14 /* forestgreenBigDots.jpg */,
+				0ACA125E1A3B77150064BC14 /* goldBigDots.jpg */,
+				0ACA125F1A3B77150064BC14 /* lightblueBigDots.jpg */,
+				0ACA12601A3B77150064BC14 /* lightblueTinyDots.jpg */,
+				0ACA12611A3B77150064BC14 /* maroonBigDots.jpg */,
+				0ACA12621A3B77150064BC14 /* rustyBigDots.jpg */,
 			);
 			name = Images;
 			path = ShootingGallery;
@@ -252,20 +252,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A376C6A19BD726300004232 /* falling.wav in Resources */,
-				0AF527B619BFF42700E36051 /* rustyBigDots.jpg in Resources */,
-				0A376C6519BD35C400004232 /* squish.wav in Resources */,
-				0A376C4D19BBA6F200004232 /* Main.storyboard in Resources */,
-				0AF527B219BFF3DC00E36051 /* maroonBigDots.jpg in Resources */,
-				0AF527A219BFCA5900E36051 /* blueDots.jpg in Resources */,
-				0AF5279D19BFC93500E36051 /* colorfulDots.jpg in Resources */,
-				0AF527BE19BFF74300E36051 /* goldBigDots.jpg in Resources */,
-				0AF527BA19BFF46900E36051 /* forestgreenBigDots.jpg in Resources */,
-				0AF527B419BFF40300E36051 /* deepgreenBigDots.jpg in Resources */,
-				0AF527BD19BFF74300E36051 /* lightblueTinyDots.jpg in Resources */,
-				0AF527B819BFF44C00E36051 /* lightblueBigDots.jpg in Resources */,
-				0A376C4F19BBA6F200004232 /* Images.xcassets in Resources */,
-				0A376C6719BD385200004232 /* blip.wav in Resources */,
+				0ACA126A1A3B77150064BC14 /* maroonBigDots.jpg in Resources */,
+				0ACA12691A3B77150064BC14 /* lightblueTinyDots.jpg in Resources */,
+				0ACA126B1A3B77150064BC14 /* rustyBigDots.jpg in Resources */,
+				0ACA12711A3B772A0064BC14 /* squish.wav in Resources */,
+				0ACA12701A3B772A0064BC14 /* falling.wav in Resources */,
+				0ACA126F1A3B772A0064BC14 /* blip.wav in Resources */,
+				0ACA12641A3B77150064BC14 /* colorfulDots.jpg in Resources */,
+				0ACA12681A3B77150064BC14 /* lightblueBigDots.jpg in Resources */,
+				0ACA12671A3B77150064BC14 /* goldBigDots.jpg in Resources */,
+				0ACA12731A3B77450064BC14 /* Images.xcassets in Resources */,
+				0ACA124B1A3B73DC0064BC14 /* Main.storyboard in Resources */,
+				0ACA12651A3B77150064BC14 /* deepgreenBigDots.jpg in Resources */,
+				0ACA12661A3B77150064BC14 /* forestgreenBigDots.jpg in Resources */,
+				0ACA12631A3B77150064BC14 /* blueDots.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,11 +283,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0A376C6C19BE126300004232 /* Ball.swift in Sources */,
-				0A376C4A19BBA6F200004232 /* ViewController.swift in Sources */,
-				0AF5279919BFC6C200E36051 /* Paddle.swift in Sources */,
-				0A376C4819BBA6F200004232 /* AppDelegate.swift in Sources */,
-				0A376C6E19BE14FE00004232 /* Direction.swift in Sources */,
+				0ACA12571A3B76E90064BC14 /* Ball.swift in Sources */,
+				0ACA12511A3B76960064BC14 /* ViewController.swift in Sources */,
+				0ACA12591A3B76E90064BC14 /* Paddle.swift in Sources */,
+				0ACA12531A3B76CB0064BC14 /* AppDelegate.swift in Sources */,
+				0ACA12581A3B76E90064BC14 /* Direction.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,17 +308,6 @@
 			targetProxy = 0A376C5519BBA6F200004232 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		0A376C4B19BBA6F200004232 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0A376C4C19BBA6F200004232 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		0A376C5C19BBA6F200004232 /* Debug */ = {
@@ -403,7 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				INFOPLIST_FILE = ShootingGallery/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,7 +405,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				INFOPLIST_FILE = ShootingGallery/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
